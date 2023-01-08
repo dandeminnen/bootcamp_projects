@@ -1,6 +1,6 @@
 # bootcamp_projects
 
-Hello! I'm Muklada. I took data science bootcamp at DataRockie and learned basics knowleadge for being data analyst as follows:
+Hello! I took data science bootcamp by DataRockie and learned basics knowleadge for being data analyst as follows:
 
 - Spreadsheets
 - SQL Database
