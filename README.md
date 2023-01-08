@@ -6,3 +6,5 @@
 - Data Transformation
 - Data Visualization
 - Statistics
+- Python
+- Dashbaord
