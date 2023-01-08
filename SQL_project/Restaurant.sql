@@ -1,10 +1,3 @@
--- Restaurant Owners
--- 5 tables
--- 1x Fact, 4x Dimension
--- how to add foreign key
--- write 3-5 SQL queries to analyze data
--- 1x subquery/ with
-
 CREATE TABLE orders (
   order_id INT PRIMARY KEY,
   menu_id INT REFERENCES menu (menu_id),
