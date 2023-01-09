@@ -4,9 +4,9 @@ score <- 0
 round <- 0
 
 repeat {
-print("Choose one to get started.")
+print("Please enter your turn:")
 print("1. Rock, 2. Paper, 3. Scissors or 0. Quit")
-player <- readline("Please enter your turn: ")
+player <- readLines("stdin", n=1)
 bot <- sample(1:3, size=1)
 if (player == 1 & bot == 1) {
     score <- score + 0
